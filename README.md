@@ -32,6 +32,6 @@ conda activate tgac-track-3
 pip install -r requirements.txt
 ```
 
-## 给自己说的话
+## Next
 
-从一无所知的text2sql小白，到独自完成Agent落地，你已经很不错了。接下来你要做的是学习优秀方案和复现前沿论文，备战2026的TAAC和TGAC，顺势而为，严于律己，加油💪！
+备战TAAC2026和TGAC2026，加油💪！
